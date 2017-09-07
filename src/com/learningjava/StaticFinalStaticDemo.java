@@ -6,6 +6,7 @@ public class StaticFinalStaticDemo {
 
 	String strObject2;
 
+	@SuppressWarnings("static-access")
 	public static void main(String args[])
 
 	{

@@ -15,6 +15,7 @@ public class DrawTreeChristmas {
 	/**
 	 * @param args
 	 */
+	@SuppressWarnings("unused")
 	public static void main(String[] args) {
 
 		int top = 3;
