@@ -1,4 +1,4 @@
-package com.nokor.efinance.bo.ui.panel;
+package com.learningjava.thread;
 
 import java.util.concurrent.ConcurrentLinkedDeque;
 
