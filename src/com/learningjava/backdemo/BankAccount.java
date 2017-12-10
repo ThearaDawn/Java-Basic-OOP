@@ -3,6 +3,7 @@ package com.learningjava.backdemo;
 public class BankAccount {
 
 	private double balance;
+	@SuppressWarnings("unused")
 	private String accountNumber;
 	
 	public void deposit(double amount) {
